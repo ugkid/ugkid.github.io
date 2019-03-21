@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Michael Bahari</title>
+    <link rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="nav.css" />
+    <link rel="stylesheet" href="breakpoint.css" />
+    <link rel="stylesheet" href="overlay.css" />
+    <link rel="stylesheet" href="action.js" />
+</head>
+<body>
+    <div id="icon_open" onclick="openNav('myNav')">&#9724;</div>
+    <div id="myNav" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav('myNav')">&#9724;</a>
+        <div class="overlay-content">
+            <a href="#home" onclick="closeNav('myNav')">Home</a>
+            <a href="#about" onclick="closeNav('myNav')">About</a>
+            <a href="#projects" onclick="closeNav('myNav')">Projects</a>
+            <a href="#contact" onclick="closeNav('myNav')">Contact</a>
+        </div>
+    </div>
+
+<!-- *PAGES* -->
+
+    <div class="pages">
+        <div id="home" class="padding">
+            <div class="centeralign">
+                <h1><span id="home_gothic">Michael Bahari</span> is a full stack developer based in Sydney, Australia.</h1>
+            </div>
+        </div>
+
+<!-- *ABOUT* -->
+        <div id="about" class="padding">
+            <h2>About</h2>
+            <div class="about_content">
+                <div class="about_facts">
+                    <div id="age">Age: 28</div>
+                    <div id="ice_cream">Height: 5"</div>
+
+                </div>
+                <img class="profile_pic" src="img/about.jpg" alt="Michael hugging bb8" />
+                <p>
+                    Michael Bahari is a full stack developer based in Sydney, Australia. nothing is more constructive than to look the facts in the face. what are they? the fact that nothing new has developed in recent decades? the boredom of the dead end without signs for a renewal? or is it the realization that a forced change in search of a "new style" can only bring superficial gain?
+                </p>
+            </div>
+        </div>
+        
+<!-- *PROJECTS* -->
+        <div id="projects" class="padding">
+            <h2>Projects</h2>
+            <br>
+            <div class="projects_content">
+                <div class="project_terminal_app">
+                    <div class="project_info">
+                        <div class="project_name">Song Suggestor</div>
+                        <div class="project_type">Ruby Terminal App</div>
+                        <div class="date">26.2.19</div>
+                    </div>
+                    <div class="project_description">
+                        Michael Bahari is a full stack developer based in Sydney, Australia. nothing is more constructive than to look the facts in the face. what are they? the fact that nothing new has developed in recent decades? the boredom of the dead end without signs for a renewal? or is it the realization that a forced change in search of a "new style" can only bring superficial gain?
+                    </div>
+                    <img class="project_photo" src="img/rage.gif" alt="project photo" />
+                    <div class="project_description">
+                        Michael Bahari is a full stack developer based in Sydney, Australia. 
+                    </div>
+                    <div class="project_description">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Mood</th>
+                                    <th>Music</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>On top of the world</td>
+                                    <td>Netflix & chill</td>                               
+                                </tr>
+                                <tr>
+                                    <td>Blue</td>
+                                    <td>Dance battle</td>                                  
+                                </tr>
+                                <tr>
+                                    <td>In love</td>
+                                    <td>Fantasy board game night</td>                               
+                                </tr>
+                                <tr>
+                                    <td>Sleep deprived</td>
+                                    <td>Cosplay party</td>                                  
+                                </tr>
+                                <tr>
+                                    <td>Rage</td>
+                                    <td>Fancy dinner party</td>                               
+                                </tr>
+                                <tr>
+                                    <td>A little high</td>
+                                    <td>Hangin' out with Garret</td>                                  
+                                </tr>
+                                        
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="project_description">
+                        Michael Bahari is a full stack developer based in Sydney, Australia. 
+                    </div>
+                    <img class="project_photo" src="img/songsuggestor.png" alt="screenshot of app" />
+                </div>
+
+                <div class="project_css">
+                    <div class="project_info">
+                        <div class="project_name">CSS Zen Garden</div>
+                        <div class="project_type">CSS Website</div>
+                        <div class="date">27.3.19</div>
+                    </div>
+                    <div class="project_description">
+                        Michael Bahari is a full stack developer based in Sydney, Australia. nothing is more constructive than to look the facts in the face. what are they? the fact that nothing new has developed in recent decades? the boredom of the dead end without signs for a renewal? or is it the realization that a forced change in search of a "new style" can only bring superficial gain?
+                    </div>
+                    <img class="project_photo" src="img/alana.jpg" alt="photo of alana" />
+                </div>
+                
+            </div>
+        </div>
+
+<!-- *CONTACT* -->
+
+        <div id="contact" class="padding">
+            <h2>Contact</h2>
+            <div class="contact_content">
+                <p>0402 282 252</p>
+                <p>hello@michaelbahari.com</p>
+                <P><a class= "contact_links" href="https://medium.com/@bahayana">Blog</a></P>
+                <P><a class= "contact_links" href="www.linkedin.com/in/michael-bahari-7a0421171">LinkedIn</a></p>
+                <p><a class= "contact_links" href="https://github.com/ugkid">Github</a></p>
+                <p><a class= "contact_links" href="https://www.instagram.com/bahahari/?hl=en">Instagram</a></p>
+            </div>
+        </div>
+    </div>
+
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="action.js"></script>
+</body>
+</html>

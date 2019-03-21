@@ -1,0 +1,57 @@
+#icon_open {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+}
+
+#icon_open:hover, :focus {
+    color: rgb(203, 172, 167);
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    display: none;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(179,156,169);
+    opacity: 0.9;
+}
+  
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    font-family: titling-gothic-fb-wide, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+}
+  
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #000000;
+    display: block;
+    transition: 0.3s;
+}
+  
+.overlay a:hover, :focus {
+    color: rgb(203, 172, 167);
+}
+  
+.overlay .closebtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 50px;
+}
+  
