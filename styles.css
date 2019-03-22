@@ -55,6 +55,10 @@ h1 {
 }
 
 /* *ABOUT */
+
+a {
+    color: black;
+}
 #about {
     background-color: rgb(209, 212, 192);
     padding-bottom: 80px;
