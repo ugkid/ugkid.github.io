@@ -1,6 +1,6 @@
 @import url("https://use.typekit.net/gri0rib.css");
 
- /* *BODY* */
+ /* *TYPOGRAPHY* */
 body {
     font-family: source-code-pro, monospace;
     font-weight: 400;
@@ -14,7 +14,6 @@ body {
     font-weight: 600;
     font-size: 0.82em;
 }
-
 
 .padding { 
     padding: 20px 20px 20px 20px;
@@ -61,6 +60,17 @@ h1 {
     padding-bottom: 80px;
 }
 
+.about_content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about_content p {
+    max-width: 600px;
+}
+
 .profile_pic {
     width: 100%;
     height: 100%;
@@ -69,34 +79,50 @@ h1 {
 
 /* *PROJECTS* */
 #projects {
-    background-color:white);
+    background-color: white;
 }
 
 .project_info {
     display: flex;
+    align-items: center;
     justify-content: space-between;
-    padding-top: 20px;
-    padding-bottom: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 
-.project_description {
+.project_type {
+    display: none;
+}
+
+.project_description, .project_photo {
     max-width: 600px;     
-    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .project_photo {
     width: 100%;
-    height: 100%;
-    max-width: 600px;
-    padding-top: 20px;
-    padding-bottom: 20px;   
+    height: 100%; 
+    margin-left: auto;
+    margin-right: auto;
 }       
+
+figure {
+margin: 0 0 0 0;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 0.82em;
+} 
 /* *TABLE* */
+.table {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 table {
     border-collapse: collapse;
     width: 100%;
     text-align: left;
-    padding-bottom: 20px;
 }
 
 th {
@@ -109,6 +135,7 @@ th {
     background-color: rgb(179,156,169);
     color: rgb(0, 0, 0);
 }
+
 
 /* .underline {
     text-decoration: underline;
