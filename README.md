@@ -10,13 +10,12 @@ The website features a single vertical page and a navigation button. It is divid
 I chose to use a single page so that all the content could be read sequentially from top to bottom. 
 The function of the navigation button is to toggle a menu between being collapsed behind the button or displayed/overlayed on the screen. Its aim is to provide direct navigational access to the sections of the page.   
 ### Sitemap
-
 ![](sitemap.png "website sitemap")
 ### Screenshots
 ### Target audience
 The target audience are future employers, clients and fellow web developers and designers. 
-
 ### Tech stack
+HTML, CSS, Javascript and Adobe XD.
 ## Design Documentation
 ### Design Process
 ### Wireframes
