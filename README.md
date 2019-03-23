@@ -10,6 +10,7 @@ The website features a single vertical page and a navigation button. It is divid
 I chose to use a single page so that all the content could be read sequentially from top to bottom. 
 The function of the navigation button is to toggle a menu between being collapsed behind the button or displayed/overlayed on the screen. Its aim is to provide direct navigational access to the sections of the page.   
 ### Sitemap
+![sitemap](C:\Users\bahay\Desktop\portfolio\sitemap.png)
 ### Screenshots
 ### Target audience
 ### Tech stack
