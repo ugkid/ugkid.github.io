@@ -4,8 +4,9 @@ https://ugkid.github.io/
 [GitHub repository](https://github.com/ugkid/webportfolio)
 ## Michael Bahari's Portfolio Website
 ### Purpose
-The purpose of this website was to design and develop a personal web development portfolio. I wanted to create a website that I could manage and reiterate for a few years.
+The purpose of this website was to design and develop a portfolio. I wanted to apply a personal brand identity that represented myself. This website would be designed in a way that I could manage and reiterate for at least a few years.
 ### Features
+
 ### Sitemap
 ### Screenshots
 ### Target audience
