@@ -7,7 +7,8 @@ https://ugkid.github.io/
 The purpose of this website was to create a portfolio for my web development work. I wanted to apply a personal brand identity that represented myself. This website was designed and developed in a way that I could manage and reiterate for at least a few years.
 ### Features
 1. Page Layout
-...The website features a single vertical page and a navigation bar. 
+
+..The website features a single vertical page and a navigation bar. 
 
 Its function is to toggle a menu or navigation bar between being collapsed behind the button or displayed on the screen. The icon which is associated with this widget, consisting of three horizontal bars, is also known as the collapsed menu icon.
 ### Sitemap
