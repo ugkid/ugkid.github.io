@@ -13,6 +13,8 @@ The function of the navigation button is to toggle a menu between being collapse
 ![sitemap](C:\Users\bahay\Desktop\portfolio\sitemap.png)
 ### Screenshots
 ### Target audience
+The target audience are future employers, clients and fellow web developers and designers. 
+
 ### Tech stack
 ## Design Documentation
 ### Design Process
