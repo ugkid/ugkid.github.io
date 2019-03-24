@@ -27,9 +27,12 @@ I wanted the user to access all sections quickly. Rather than having multiple li
 I planned to finish moodboarding and rough concepts by Monday, finalize styles(typography, colors, layout) by Tuesday, work on developing the CSS on Wednesday and Thursday, Javascript and touches on Friday, and the documentation on the weekend. 
 ### Screenshots Of Trello Boards
 ## Short Answer Q&A
-Q1. In the early 1970s Bob Kahn and Vint Cerf began working on the design of what we call today as the 'Internet'. It was based on a previous defense department project called the 'ARPANET'(Advanced Research Projects Agency Network), which was a communication system that was designed to survive a nuclear attack. The nationwide experimental packet network that distributed information through a mesh network worked and from 1983 it became known as the internet. Today the internet is made up of a large number of independently operated network. It has become a vast network of shared information. 
+Q1. In the early 1970s Bob Kahn and Vint Cerf began working on the design of what we call today as the 'Internet'. It was based on a previous defense department project called the 'ARPANET'(Advanced Research Projects Agency Network), which was a communication system that was designed to survive a nuclear attack. The nationwide experimental packet network that distributed information through a mesh network worked and from 1983 a standard internet working protocol was made and it became known as the internet. Today the internet is network or networks. It has become a vast network of shared information. 
 
-Q2.
+Q2. All devices on the internet have unique addresses which are an organised series of numbers. Just like when you mail a physical letter to somebody overseas, you need write their mailing address properly so it can get delivered. Devices on the internet have a similar addressing system called an IP address. The Domain Name System (DNS) associates names like www.google.com with their addresses. A computer can look up domain names and their IP addresses so that you can connect to the desired place on the internet. A webrowser is like a window that lets you view content from another place on the internet. 
+
+Q3. The internet has provided free education to many 3rd world countries in the world. The mass production of cheaper laptops for e.g. have allowed young children to learn knowledge. 
+
 Details of planning process including,
 Project plan & timeline
 Screenshots of Trello board(s)
