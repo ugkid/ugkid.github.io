@@ -20,6 +20,7 @@ HTML, CSS, Javascript and Adobe XD.
 ## Design Documentation
 
 ### Design Process
+![](docs/app_screenshots/pinterest_slides.png "pinterest")
 ### Wireframes
 ![](docs/app_screenshots/xd1.png "xd screenshot1")
 ![](docs/app_screenshots/xd2.png "xd screenshot2")
@@ -30,7 +31,7 @@ I wanted the user to access all sections quickly. Rather than having multiple li
 ### Project Plan & Timeline
 I planned to finish moodboarding and rough concepts by Monday, finalize styles(typography, colors, layout) by Tuesday, work on developing the CSS on Wednesday and Thursday, Javascript and touches on Friday, and the documentation on the weekend. 
 ### Screenshots Of Trello Boards
-
+![](docs/app_screenshots/trello.png "trello")
 ## Short Answer Q&A
 Q1. In the early 1970s Bob Kahn and Vint Cerf began working on the design of what we call today as the 'Internet'. It was based on a previous defense department project called the 'ARPANET'(Advanced Research Projects Agency Network), which was a communication system that was designed to survive a nuclear attack. The nationwide experimental packet network that distributed information through a mesh network worked and from 1983 a standard internet working protocol was made and it became known as the internet. Today the internet is network or networks. It has become a vast network of shared information. 
 
