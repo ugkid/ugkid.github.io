@@ -19,9 +19,11 @@ HTML, CSS, Javascript and Adobe XD.
 ## Design Documentation
 ### Design Process
 ### Wireframes
+
 ### Usability Considerations
 ## Planning Process
 ### Project Plan & Timeline
+I planned to finish moodboarding and rough concepts by Monday, finalize styles(typography, colors, layout) by Tuesday, work on developing the CSS on Wednesday and Thursday, Javascript and touches on Friday, and the documentation on the weekend. 
 ### Screenshots Of Trello Boards
 ## 
 
