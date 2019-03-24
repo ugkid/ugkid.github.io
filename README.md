@@ -21,6 +21,7 @@ HTML, CSS, Javascript and Adobe XD.
 ### Wireframes
 
 ### Usability Considerations
+I wanted the user to access all sections quickly. Rather than having multiple links to go to different pages/sections, I placed everything on a single page so that the user can scroll down. I tried to mimic the experience of reading an article. More and more mobile devices are increasing in screen size so I wanted to design my UI elements for 'thumbs'. The navigation button was placed deliberately in the bottom right corner so it could easily be reached. The button is a bold black square as opposed to the traditional 'hamburger' icon. I also provided ALT text in all of my images for web accessibility. 
 ## Planning Process
 ### Project Plan & Timeline
 I planned to finish moodboarding and rough concepts by Monday, finalize styles(typography, colors, layout) by Tuesday, work on developing the CSS on Wednesday and Thursday, Javascript and touches on Friday, and the documentation on the weekend. 
