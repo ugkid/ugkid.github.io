@@ -10,9 +10,9 @@ The website features a single vertical page and a navigation button. It is divid
 I chose to use a single page so that all the content could be read sequentially from top to bottom. 
 The function of the navigation button is to toggle a menu between being collapsed behind the button or displayed/overlayed on the screen. Its aim is to provide direct navigational access to the sections of the page.   
 ### Sitemap
-![](docs/sitemap.png "website sitemap")
+![](sitemap.png "website sitemap")
 ### Screenshots
-![](docs/app_screenshots/screenwebpage.png "screenshot of website")
+![](app_screenshots/screenwebpage.png "screenshot of website")
 ### Target audience
 The target audience are future employers, clients and fellow web developers and designers. 
 ### Tech stack
@@ -20,18 +20,18 @@ HTML, CSS, Javascript and Adobe XD.
 ## Design Documentation
 
 ### Design Process
-![](docs/app_screenshots/pinterest_slides.png "pinterest")
+![](app_screenshots/pinterest_slides.png "pinterest")
 ### Wireframes
-![](docs/app_screenshots/xd1.png "xd screenshot1")
-![](docs/app_screenshots/xd2.png "xd screenshot2")
-![](docs/app_screenshots/xd3.png "xd screenshot3")
+![](app_screenshots/xd1.png "xd screenshot1")
+![](app_screenshots/xd2.png "xd screenshot2")
+![](app_screenshots/xd3.png "xd screenshot3")
 ### Usability Considerations
 I wanted the user to access all sections quickly. Rather than having multiple links to go to different pages/sections, I placed everything on a single page so that the user can scroll down. I tried to mimic the experience of reading an article. More and more mobile devices are increasing in screen size so I wanted to design my UI elements for 'thumbs'. The navigation button was placed deliberately in the bottom right corner so it could easily be reached. The button is a bold black square as opposed to the traditional 'hamburger' icon. I also provided ALT text in all of my images for web accessibility. 
 ## Planning Process
 ### Project Plan & Timeline
 I planned to finish moodboarding and rough concepts by Monday, finalize styles(typography, colors, layout) by Tuesday, work on developing the CSS on Wednesday and Thursday, Javascript and touches on Friday, and the documentation on the weekend. 
 ### Screenshots Of Trello Boards
-![](docs/app_screenshots/trello.png "trello")
+![](app_screenshots/trello.png "trello")
 ## Short Answer Q&A
 Q1. In the early 1970s Bob Kahn and Vint Cerf began working on the design of what we call today as the 'Internet'. It was based on a previous defense department project called the 'ARPANET'(Advanced Research Projects Agency Network), which was a communication system that was designed to survive a nuclear attack. The nationwide experimental packet network that distributed information through a mesh network worked and from 1983 a standard internet working protocol was made and it became known as the internet. Today the internet is network or networks. It has become a vast network of shared information. 
 
