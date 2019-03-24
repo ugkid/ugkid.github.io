@@ -31,12 +31,4 @@ Q1. In the early 1970s Bob Kahn and Vint Cerf began working on the design of wha
 
 Q2. All devices on the internet have unique addresses which are an organised series of numbers. Just like when you mail a physical letter to somebody overseas, you need write their mailing address properly so it can get delivered. Devices on the internet have a similar addressing system called an IP address. The Domain Name System (DNS) associates names like www.google.com with their addresses. A computer can look up domain names and their IP addresses so that you can connect to the desired place on the internet. A webrowser is like a window that lets you view content from another place on the internet. 
 
-Q3. The internet has provided free education to many 3rd world countries in the world. The mass production of cheaper laptops for e.g. have allowed young children to learn knowledge. 
-
-Details of planning process including,
-Project plan & timeline
-Screenshots of Trello board(s)
-Short Answer Q&A - Include short answers to the following questions,
-Describe key events in the development of the internet from the 1980s to today (max. 150 words)
-Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
-Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+Q3. The internet has provided free education to many 3rd world countries in the world. The mass production of cheaper laptops for e.g. have allowed young children in remote and impoverished areas to learn knowledge. 
